@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  margin-top: 10%
+}
+.content{
+  margin-bottom: 20px
+}
+.textfield{
+  width: 20%
+}
+.btn{
+  font-weight: bold;
+  width: 20%
+}
+.labels{
+  text-align: left;
+  font-weight: bold;
+  margin-left: 40%
+}
+h1{
+  font-weight: bold;
+  font-size: 48px
+}

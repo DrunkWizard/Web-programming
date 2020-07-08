@@ -1,0 +1,40 @@
+#level-title{
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 3rem;
+  margin: 5%;
+  color: #FEF2BF;
+}
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+body{
+  text-align: center;
+  background-color: #011F3F;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.buttons{
+  padding: 6%;
+  border-radius: 20%;
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+  margin: 25px;
+  outline: none;
+}
+@media (max-width: 1500px) {
+  .buttons{
+    padding: 12%;
+  }
+}
